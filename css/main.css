@@ -1,0 +1,84 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.clearfix after {
+content:'';
+display: table;
+width: 100%;
+clear: both;
+}
+
+div {
+	box-sizing: border-box; 
+}
+
+header {
+	background: url(../img/fon.jpeg) no-repeat center top / cover;
+	height: 600px;
+}
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.logo {
+	margin-top: 20px;
+	float: left;
+}
+
+nav {
+	float: right;
+	margin-top: 45px;
+}
+
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.menu li {
+	float: left;	
+	display: block; 
+	margin-right: 95px;
+}
+
+.menu a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.menu img {
+	margin: 0;
+    padding: 0;
+    vertical-align: middle;
+}
+.title__first {
+	font-size: 117px;
+	color: #fff;
+	text-align: center;
+	margin-top: 5px;
+}
+
+h1 {
+	font-size: 31px;
+	color: #fff;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

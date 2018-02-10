@@ -1,0 +1,2 @@
+[2/8/2018, 11:20:43 PM] layer "      ": Expected Either a default asset specification or a layer asset specification but " " found.
+[2/8/2018, 11:20:43 PM] layer "A minimal Web Design  from cssauthor.com": Unsupported extension: com
